@@ -23,7 +23,7 @@
 
 [sqlite-transform 0.5](https://github.com/simonw/sqlite-transform/releases/tag/0.5) - 2021-03-24
 
-[iam-to-sqlite 0.1](https://github.com/simonw/iam-to-sqlite/releases/tag/0.1) - 2021-03-24
+[GitHub-Flavored-Markdown](https://github.com/Selim-Reza-Swadhin/GitHub-Flavored-Markdown) - 2021-04-24
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
