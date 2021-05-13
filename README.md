@@ -9,7 +9,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-[django-sql-dashboard 0.13](https://github.com/simonw/django-sql-dashboard/releases/tag/0.13) - 2021-05-10
+[nodejs-basic-tutorial](https://github.com/Selim-Reza-Swadhin/nodejs-basic-tutorial) - 2021-05-12
 
 [json-post 0.2](https://github.com/simonw/json-post/releases/tag/0.2) - 2021-04-11
 
